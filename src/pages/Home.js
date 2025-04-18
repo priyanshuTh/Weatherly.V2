@@ -250,7 +250,7 @@ const Home = () => {
           }`}
         >
           <img
-            src="../public/assets/images/logo.png"
+            src="/assets/images/logo.png"
             alt="Weatherly logo"
             className="w-20 h-20"
           />

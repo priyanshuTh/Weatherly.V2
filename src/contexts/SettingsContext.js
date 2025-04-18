@@ -1,4 +1,3 @@
-// src/contexts/SettingsContext.js
 import React, { createContext, useState, useEffect, useContext } from "react";
 
 const defaultSettings = {

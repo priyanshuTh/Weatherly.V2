@@ -1,4 +1,3 @@
-// src/components/SettingsModal.js
 import React, { useState, useEffect } from "react";
 import { useTheme } from "./ThemeContext";
 import { useSettings } from "./SettingsModal";
