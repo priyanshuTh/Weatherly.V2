@@ -1,4 +1,3 @@
-// src/components/Toast.js
 import React, { useEffect } from "react";
 
 const Toast = ({ message, show, onClose }) => {

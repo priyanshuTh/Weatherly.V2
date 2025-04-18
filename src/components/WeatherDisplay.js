@@ -1,4 +1,3 @@
-// src/components/WeatherDisplay.js
 import React from "react";
 import { useTheme } from "../contexts/ThemeContext";
 import {

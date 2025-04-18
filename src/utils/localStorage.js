@@ -1,4 +1,3 @@
-// src/utils/localStorage.js
 /**
  * Get item from localStorage with error handling
  * @param {string} key - Local storage key

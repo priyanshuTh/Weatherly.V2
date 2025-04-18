@@ -1,4 +1,3 @@
-// src/utils/formatters.js
 /**
  * Format timestamp to time
  * @param {number} timestamp - Unix timestamp

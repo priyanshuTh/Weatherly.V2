@@ -1,4 +1,3 @@
-// src/components/WeatherAlerts.js
 import React, { useState, useEffect } from "react";
 import { useTheme } from "../contexts/ThemeContext";
 import { AlertTriangle, AlertCircle, Info, X } from "lucide-react";
